@@ -1,0 +1,13 @@
+#container {
+    padding: 1opx;
+    border: solid;
+    background-color: rgb(173, 110, 110);
+}
+
+h1, p {
+    color: blue;
+}
+
+#containerInner {
+    background-color: bisque;
+}
